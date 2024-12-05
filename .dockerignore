@@ -1,0 +1,15 @@
+#ignore python cache files
+__pycache__/
+*.pyc
+
+#ignore the environment files
+.venv
+*.env
+*cfg
+
+#ignore uncessary files
+dataload.py
+SEP.ipynb
+
+#ignore the readme file
+data/README.md
